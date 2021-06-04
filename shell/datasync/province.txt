@@ -1,0 +1,14 @@
+prov          user   IP               port     host    port
+#广东
+guangdong     root   183.235.245.71   10065    mysql1  22
+#内蒙古
+nmg           nmg    192.168.255.49   22       mysql1  22
+#云南
+yunnan        sl_yn  39.130.153.24    2200     mysql1  2200
+#河南
+henan         root   192.168.255.52   22       mysql1  22
+#天津
+tianjin       root   192.168.255.51   22       mysql1  22
+#中心
+zq-10.65      sl_zq  192.168.10.69    2200     mysql2  22
+zq-10.56      sl_zq  192.168.10.69    2200     ftp2    22
