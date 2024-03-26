@@ -15,6 +15,7 @@ class downloader(object):
         #变量self.server下边函数可共用
          self.server = 'http://www.qq1986.com/'
          self.target = 'http://www.qq1986.com/class/72786/'
+        # https://558411d2.kmrrnxhmj.com/aff-jMy3P # 仅供学习
         #爬取图书主目录所在网址，用来获取每一章节的url
          self.names = [] #存放章节名
          self.urls = []  #存放章节连接
